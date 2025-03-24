@@ -17,7 +17,7 @@ db.sqlite3
 *.log
 
 # Ігноруємо директорію "Wrong Files"
-Num_prog/Wrong Files/
+Wrong Files/
 
 # Ігноруємо файл requirements.txt в папці Num_prog
-Num_prog/requirements.txt
+requirements.txt
