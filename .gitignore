@@ -16,7 +16,7 @@ db.sqlite3
 # Ігноруємо файли, які генеруються під час виконання
 *.log
 # Ігноруємо директорію Wrong Files
-../Numeric_Program/Wrong Files/
+../Num_Prog/Wrong Files/
 
 
-../Numeric_Program/requirements.txt
+../Num_Prog/requirements.txt
