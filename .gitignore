@@ -20,4 +20,5 @@ db.sqlite3
 Wrong Files/
 
 # Ігноруємо файл requirements.txt в папці Num_prog
-requirements.txt
+.requirements.txt
+ESC-50-master/
